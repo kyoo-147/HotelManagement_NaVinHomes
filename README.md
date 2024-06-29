@@ -19,7 +19,7 @@
 
 * Now we hope to be able to help you further and streamline your business management processes.
 ![Dt](https://github.com/kyoo-147/HotelManagement_NaVinHomes/assets/126655047/7df2e5de-b8e2-40d3-b01c-f7ab6e6bee3b)
-### Please contact NaVin AIF Techonology: Hotline:[0365646109](0365646109) - [Email](ngoctuanvinh1332@gmail.com)
+### Please contact NaVin AIF Techonology: [Hotline](0365646109) - [Email](ngoctuanvinh1332@gmail.com)
 ### Copyright [NaVinHomes Management](https://github.com/kyoo-147/HotelManagement_NaVinHomes) 2024. All Rights Reserved.
 ### [MIT License](https://opensource.org/licenses/MIT).
 
