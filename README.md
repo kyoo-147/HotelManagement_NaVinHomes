@@ -1,4 +1,6 @@
 # NaVinHomes Management - Strict management and comfort. Easy for first use, effective and more.
+* Hiện tại dự án đã dừng hoạt động và sẽ được lưu trữ như một tài liệu học thuật, không còn liên quan đến bất kì hoạt động thương mại nào nữa
+* The project has now ceased operations and will be stored as an academic document, no longer associated with any commercial activities.
 ![Main](https://github.com/kyoo-147/HotelManagement_NaVinHomes/assets/126655047/daf88af8-9909-4426-8b29-94bfac67c199)
 ![Connect](https://github.com/kyoo-147/HotelManagement_NaVinHomes/assets/126655047/6620c180-a827-4c8b-8269-88c57e8504b4)
 ![Feature](https://github.com/kyoo-147/HotelManagement_NaVinHomes/assets/126655047/b5dd3130-2000-4c52-b30c-686c7b70ec9a)
